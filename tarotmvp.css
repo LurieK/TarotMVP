@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+@font-face {
+  font-family: 'Krysttal Spears';
+  src: url('./Krysttal\ Spears\ Free.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+#title h1{
+  font-family: 'krysttal Spears';
+  font-size: 100px;
+  color:rgba(97, 6, 97, 0.75);
+  text-align: center;
+  font-weight: normal;
+  
+}
+body {
+  
+  background-color: #f1f3f4;
+  font-size: 0.9rem;
+  color: rgb(49, 6, 87);
+}
+
+h3{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  
+}
+.content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+}
+button {
+  height: 65px;
+  font-size: 22px;
+  color:rgb(232, 229, 235);
+  cursor: pointer;
+  padding: 0 20px;
+  background: rgb(49, 6, 87);
+  border: none;
+  
+}
+
+h2{
+  font-family: 'raleway';
+  font-size: 30px;
+  font-weight: 400;
+  justify-content: center;
+}
+
